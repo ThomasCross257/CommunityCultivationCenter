@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://communitycultivationcenter.github.io/</title>
+  <link>https://communitycultivationcenter.github.io/</link>
+
+<item>
+     <link>https://communitycultivationcenter.github.io/</link>
+     <title>Home</title>
+     <description>Home</description>
+     <ror:updatePeriod>hourly</ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://communitycultivationcenter.github.io/index.html</link>
+     <title>Home</title>
+     <description>Home</description>
+     <ror:updatePeriod>hourly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://communitycultivationcenter.github.io/about.html</link>
+     <title>About Us</title>
+     <description>About Us</description>
+     <ror:updatePeriod>hourly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://communitycultivationcenter.github.io/contact.html</link>
+     <title>Contact Us</title>
+     <description>Contact Us</description>
+     <ror:updatePeriod>hourly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://communitycultivationcenter.github.io/markets.html</link>
+     <title>Markets</title>
+     <description>Markets</description>
+     <ror:updatePeriod>hourly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://communitycultivationcenter.github.io/location.html</link>
+     <title>Location</title>
+     <description>Location</description>
+     <ror:updatePeriod>hourly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://communitycultivationcenter.github.io/Data.html</link>
+     <title>Data and Graphs</title>
+     <description>Data and Graphs</description>
+     <ror:updatePeriod>hourly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://communitycultivationcenter.github.io/calendar.html</link>
+     <title>Calendar</title>
+     <description>Calendar</description>
+     <ror:updatePeriod>hourly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://communitycultivationcenter.github.io/login.html</link>
+     <title>Login</title>
+     <description>Login</description>
+     <ror:updatePeriod>hourly</ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://communitycultivationcenter.github.io/register.html</link>
+     <title>Register</title>
+     <description>Register</description>
+     <ror:updatePeriod>hourly</ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
